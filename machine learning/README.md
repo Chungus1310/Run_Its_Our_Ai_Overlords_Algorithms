@@ -61,7 +61,7 @@ Perfect when you want to discover groups in your data!
 - **Best for**: Complex datasets, feature importance analysis
 - **Cool feature**: Tells you which features matter most!
 
-[More classifiers and their descriptions continue...]
+[and much more...]
 
 ### Regression: Predicting Numbers
 
@@ -70,7 +70,7 @@ Perfect when you want to discover groups in your data!
 - **Best for**: Price prediction, trend analysis
 - **Cool feature**: Easy to understand and explain!
 
-[More regression methods and their descriptions continue...]
+[and much more...]
 
 ## 🚀 Ready to Try It Out?
 
